@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/bottom.png</file>
+        <file>pic/cry.png</file>
+        <file>pic/hehe.png</file>
+        <file>pic/pat.png</file>
+        <file>pic/scare.png</file>
+        <file>pic/bottom.gif</file>
+        <file>pic/drag.gif</file>
+    </qresource>
+</RCC>
