@@ -6,5 +6,6 @@
         <file>pic/pat.png</file>
         <file>pic/scare.png</file>
         <file>pic/bottom.gif</file>
+        <file>pic/drag.gif</file>
     </qresource>
 </RCC>
