@@ -7,5 +7,11 @@
         <file>pic/scare.png</file>
         <file>pic/bottom.gif</file>
         <file>pic/drag.gif</file>
+        <file>pic/left.png</file>
+        <file>pic/lie.png</file>
+        <file>pic/right.png</file>
+        <file>pic/stand.gif</file>
+        <file>pic/top.png</file>
+        <file>pic/turn.gif</file>
     </qresource>
 </RCC>
